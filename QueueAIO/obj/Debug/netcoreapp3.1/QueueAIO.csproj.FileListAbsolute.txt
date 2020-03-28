@@ -1,0 +1,13 @@
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.exe
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.deps.json
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.runtimeconfig.json
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.runtimeconfig.dev.json
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.dll
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\bin\Debug\netcoreapp3.1\QueueAIO.pdb
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.csprojAssemblyReference.cache
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.csproj.CoreCompileInputs.cache
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.AssemblyInfoInputs.cache
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.AssemblyInfo.cs
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.dll
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.pdb
+C:\Users\khoi.nt\source\repos\QueueAIO\QueueAIO\obj\Debug\netcoreapp3.1\QueueAIO.genruntimeconfig.cache
